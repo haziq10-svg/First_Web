@@ -1,1 +1,1 @@
-Dowload the zip and open html
+Dowload the zip ,extracted zip and open html
